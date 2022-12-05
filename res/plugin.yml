@@ -1,0 +1,7 @@
+name: ServerMurderer
+main: gecko10000.servermurderer.ServerMurderer
+version: 0.1
+api-version: 1.13
+commands:
+  murder:
+    permission: server.murder
